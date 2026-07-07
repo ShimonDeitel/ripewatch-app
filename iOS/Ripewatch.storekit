@@ -1,0 +1,40 @@
+{
+  "identifier" : "ripewatch",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {},
+  "subscriptionGroups" : [
+    {
+      "id" : "ripewatch_group",
+      "localizations" : [],
+      "name" : "Ripewatch Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "ripewatch_pro_monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Ripewatch Pro unlocks unlimited plants and pro features.",
+              "displayName" : "Ripewatch Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "ripewatch_pro_monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Ripewatch Pro",
+          "subscriptionGroupID" : "ripewatch_group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
